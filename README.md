@@ -42,7 +42,7 @@ The purpose of this project is to understand how CI/CD pipelines automate the so
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/somanadhgunti/cicd-student-demo.git
+git clone https://github.com/4925hema/cicd-student-demo.git
 ```
 
 ### Navigate to the Project Directory
@@ -86,12 +86,4 @@ cicd-student-demo/
 - Automate application deployment.
 - Add Docker support for containerization.
 
-## 👨‍💻 Author
-
-**Somanadh Gunti**
-
 Developed as a learning project to explore CI/CD concepts and DevOps automation.
-
----
-
-**Developed by Somanadh**
